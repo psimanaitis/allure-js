@@ -1,7 +1,7 @@
 {
-  "name": "allure-mocha",
-  "version": "2.5.0",
-  "description": "Allure Mocha integration",
+  "name": "psimanaitis-allure-mocha",
+  "version": "2.5.1",
+  "description": "Allure Mocha integration fork",
   "license": "Apache-2.0",
   "author": {
     "name": "Qameta Software",
